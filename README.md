@@ -26,7 +26,3 @@ Employee Attendance Management System is a Python-based application used to mana
 - db_setup.py → Database setup script
 - main.py → Main application file
 
----
-
-## ⚙️ How to Run
-1. Install dependencies:
